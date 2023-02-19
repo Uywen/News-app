@@ -1,0 +1,15 @@
+.main{
+    width:100%;
+    height:20px;
+    display: flex;
+    justify-content: center;
+}
+
+.main div{
+    margin:25px;
+    cursor: pointer;
+}
+
+.main div:hover{
+    color: gray;
+}
